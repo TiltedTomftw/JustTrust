@@ -1,6 +1,6 @@
 # JustTrust
 
-A comprehensive trust management addon for FFXI that prevents duplicate purchases and manages trust sets.
+A trust management addon for FFXI that prevents duplicate purchases and manages trust sets.
 
 ## Features
 
